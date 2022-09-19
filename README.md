@@ -16,9 +16,10 @@
 (React.js, JavaScript, HTML, CSS, deployed with Google Firebase)
 
 ## Home screen:
-![image]()
+<img width="1091" alt="Homescreen" src="https://user-images.githubusercontent.com/100220912/191014754-2b22bdbe-ae77-43ec-9280-905d6bd746f0.png">
+
 ## Profile screen:
-![image]()
+<img width="1088" alt="Profilescreen" src="https://user-images.githubusercontent.com/100220912/191014784-5b9db20f-1315-4575-8929-4b6504eb30f0.png">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
